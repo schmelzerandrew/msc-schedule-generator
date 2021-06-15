@@ -1,0 +1,46 @@
+ Avg Priority: 1.12
+ Total hours filled: 85
+ Min hrs filled: 2
+ Min hrs proportion: 0.5
+ Mean desired (weighted) filled: 0.78
+ Mean trips in: 3.89
+ Geom mean desired: 0.76
+ Gaps in schedule: 0.00
+ Score: 319.03
+
+WYSIWYG 
+- Desired:  5 Scheduled:  6 Proportion: 1.20 Open: 22
+AJI 
+- Desired:  2 Scheduled:  2 Proportion: 1.00 Open: 3
+CNIDAE 
+- Desired:  4 Scheduled:  4 Proportion: 1.00 Open: 44
+BWANA 
+- Desired:  2 Scheduled:  2 Proportion: 1.00 Open: 26
+JYMOLD 
+- Desired: 10 Scheduled:  9 Proportion: 0.90 Open: 40
+AHI 
+- Desired:  8 Scheduled:  7 Proportion: 0.88 Open: 22
+FYKE 
+- Desired:  6 Scheduled:  5 Proportion: 0.83 Open: 30
+CZAPKA 
+- Desired:  9 Scheduled:  7 Proportion: 0.78 Open: 16
+AJIVA 
+- Desired:  4 Scheduled:  3 Proportion: 0.75 Open: 33
+EWT 
+- Desired: 10 Scheduled:  7 Proportion: 0.70 Open: 33
+IHRAM 
+- Desired:  6 Scheduled:  4 Proportion: 0.67 Open: 45
+AHIS 
+- Desired:  6 Scheduled:  4 Proportion: 0.67 Open: 30
+IZAR 
+- Desired:  6 Scheduled:  4 Proportion: 0.67 Open: 39
+OQUASSA 
+- Desired:  6 Scheduled:  4 Proportion: 0.67 Open: 28
+AORTAE 
+- Desired:  6 Scheduled:  4 Proportion: 0.67 Open: 37
+KWACHA 
+- Desired:  5 Scheduled:  3 Proportion: 0.60 Open: 26
+XOANA 
+- Desired: 12 Scheduled:  7 Proportion: 0.58 Open: 21
+AJOWAN 
+- Desired:  6 Scheduled:  3 Proportion: 0.50 Open: 27
